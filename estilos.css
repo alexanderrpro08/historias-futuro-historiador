@@ -1,0 +1,32 @@
+/* Estilos generales para toda la página */
+body {
+    background-color: #f4f1ea; /* Un tono crema y cálido de fondo */
+    color: #2c3e2d; /* Un verde oscuro y elegante para el texto */
+    font-family: Georgia, serif; /* Una tipografía clásica y de lectura cómoda */
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+}
+
+/* Estilo para el título principal */
+h1 {
+    color: #4a5d4e; /* Un tono verde natural */
+    border-bottom: 2px solid #d4c5b9;
+    padding-bottom: 10px;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-size: 1.1rem;
+}
+/* Estilo para la imagen principal */
+.imagen-diario {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
